@@ -6,14 +6,13 @@ The GitHub home of AISS, Bocconi’s AI in Social Sciences Lab. Templates, tools
 <tr>
 <th width="33%"><a href="https://aiss-unibocconi-eu.github.io/aiss-research-template/"><img src="./header-start.svg" width="100%" height="44" alt="Start a project"></a></th>
 <th width="33%"><a href="https://github.com/aiss-unibocconi-eu/handbook"><img src="./header-new.svg" width="100%" height="44" alt="New here?"></a></th>
-<th width="33%"><a href="[https://aiss-unibocconi-eu.github.io/aiss-bytes](https://aiss-unibocconi-eu.github.io/aiss_bytes/aiss-bytes-schedule.html)"><img src="./header-bytes.svg" width="100%" height="44" alt="AISS Bytes"></a></th>
+<th width="33%"><a href="https://aiss-unibocconi-eu.github.io/aiss_bytes/aiss-bytes-schedule.html"><img src="./header-bytes.svg" width="100%" height="44" alt="AISS Bytes"></a></th>
 </tr>
 <tr>
 <td>🚀 Start from the <a href="https://aiss-unibocconi-eu.github.io/aiss-research-template/">AISS research template</a>.</td>
 <td>📘 Git, uv and the rest of the workflow in the <a href="https://github.com/aiss-unibocconi-eu/handbook">handbook</a>.</td>
-<td>🎙️ Short afternoon talks on AI methods for social science, with live Q&amp;A. <a href="[https://aiss-unibocconi-eu.github.io/aiss-bytes](https://aiss-unibocconi-eu.github.io/aiss_bytes/aiss-bytes-schedule.html)">Schedule →</a></td>
+<td>🎙️ Short afternoon talks on AI methods for social science, with live Q&amp;A. <a href="https://aiss-unibocconi-eu.github.io/aiss_bytes/aiss-bytes-schedule.html">Schedule →</a></td>
 </tr>
 </table>
 
 🌐 [aiss.unibocconi.eu](https://aiss.unibocconi.eu/) · ✉️ [aiss@unibocconi.it](mailto:aiss@unibocconi.it)
-
