@@ -4,12 +4,12 @@ The GitHub home of AISS, Bocconi’s AI in Social Sciences Lab. Templates, tools
 
 <table>
 <tr>
-<th width="33%"><img src="./header-start.svg" width="100%" height="44" alt="Start a project"></th>
-<th width="33%"><img src="./header-new.svg" width="100%" height="44" alt="New here?"></th>
-<th width="33%"><img src="./header-bytes.svg" width="100%" height="44" alt="AISS Bytes"></th>
+<th width="33%"><a href="https://aiss-unibocconi-eu.github.io/aiss-research-template/"><img src="./header-start.svg" width="100%" height="44" alt="Start a project"></a></th>
+<th width="33%"><a href="https://github.com/aiss-unibocconi-eu/handbook"><img src="./header-new.svg" width="100%" height="44" alt="New here?"></a></th>
+<th width="33%"><a href="https://aiss-unibocconi-eu.github.io/aiss-bytes"><img src="./header-bytes.svg" width="100%" height="44" alt="AISS Bytes"></a></th>
 </tr>
 <tr>
-<td>🚀 Spin up a repo from the <a href="https://github.com/aiss-unibocconi-eu/research-template">research-template</a>: click <em>Use this template</em>.</td>
+<td>🚀 Start from the <a href="https://github.com/aiss-unibocconi-eu/aiss-research-template">AISS research template</a>, or follow the <a href="https://aiss-unibocconi-eu.github.io/aiss-research-template/">step-by-step guide</a>.</td>
 <td>📘 Git, uv and the rest of the workflow in the <a href="https://github.com/aiss-unibocconi-eu/handbook">handbook</a>.</td>
 <td>🎙️ Short afternoon talks on AI methods for social science, with live Q&amp;A. <a href="https://aiss-unibocconi-eu.github.io/aiss-bytes">Schedule →</a></td>
 </tr>
