@@ -1,4 +1,4 @@
-<img src="./aiss-banner.svg" alt="AI in Social Sciences Lab, Bocconi University" width="100%">
+<a href="https://aiss.unibocconi.eu/"><img src="./aiss-banner.svg" alt="AI in Social Sciences Lab, Bocconi University" width="100%"></a>
 
 The GitHub home of AISS, Bocconi’s AI in Social Sciences Lab. Templates, tools and workflows for AI-powered research, open to every department and research centre at Bocconi University.
 
